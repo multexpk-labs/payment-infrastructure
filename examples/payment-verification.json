@@ -1,0 +1,12 @@
+{
+  "invoice_id": "example-invoice-001",
+  "network": "TRC20",
+  "asset": "USDT",
+  "destination": "EXAMPLE_REDACTED",
+  "expected_amount": "100.00",
+  "observed_amount": "100.00",
+  "transaction_id": "example-tx-001",
+  "confirmations": 12,
+  "status": "confirmed",
+  "synthetic": true
+}
