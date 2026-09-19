@@ -1,6 +1,6 @@
 # MULTEXPK Crypto Payment Gateway
 
-## Pay.MULTE XPK
+## Pay.MULTEXPK
 
 MULTEXPK operates a self-hosted payment workflow at **pay.multex.pk** for cryptocurrency payments integrated with the billing system.
 
