@@ -1,0 +1,8 @@
+{
+  "event_id": "evt_example_001",
+  "type": "payment.succeeded",
+  "payment_id": "pay_example_001",
+  "amount": "49.99",
+  "currency": "USD",
+  "signature": "synthetic-signature"
+}
